@@ -3,7 +3,7 @@
 ## I'm a developer, and an enthusiast of A.I. and Big Data 
  
  - I'm a Computer Engineering undergraduate at <a href="https://portal.cin.ufpe.br/">CIn UFPE</a>.
- - I'm currently learning Docker and Kubernetes.
+ - I'm currently learning NLP and LLMs.
  - I'm looking for an intership or part-time job.
  - I did a 4-month exchange at <a href="https://www.polymtl.ca/en/">Polytechnique Montréal</a>.
  - I'm soccer and cycling fan.
